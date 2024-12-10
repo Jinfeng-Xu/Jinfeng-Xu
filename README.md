@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Recommendation and Federated Learning
-- 🌱 I’m currently learning LLM4Rec, GroupRec, SocialRec, MultimodalRec
+<!-- - 🔭 I’m currently working on Recommendation and Federated Learning -->
+- 🌱 I’m currently working on Recommendation and its downstream tasks
 - 👯 I’m looking to collaborate on Recommendation
 - 📫 How to reach me: **jinfeng@connect.hku.hk**
 
